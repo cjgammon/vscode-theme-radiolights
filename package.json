@@ -1,0 +1,21 @@
+{
+  "name": "radiolights",
+  "displayName": "radiolights",
+  "description": "color theme based on tokyonight",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "radiolights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/radiolights-color-theme.json"
+      }
+    ]
+  }
+}
